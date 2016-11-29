@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/ARAnimationTest.unity
+- path: Assets/Scene/ARVideoTest.unity
   isLoaded: 1
   isActive: 1
